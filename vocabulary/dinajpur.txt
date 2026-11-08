@@ -1,0 +1,5 @@
+# Starter vocabulary - Dinajpur dialect. Single words only.
+# Extend and validate with native speakers; accuracy depends on this list.
+ক্যাংকা, ক্যানে, আইজক্যা, কইরবার, আসচিল, অইছে
+হইছে, নাগে, নাগোছে, মুই, মোর, হামার
+এ্যাংকা, গরমোত, চ্যাংড়া, চেংড়ী, অংগের, আইসা

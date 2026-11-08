@@ -1,0 +1,11 @@
+.env
+*.db
+__pycache__/
+.streamlit/secrets.toml
+venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.pyc
+.streamlit/secrets.toml

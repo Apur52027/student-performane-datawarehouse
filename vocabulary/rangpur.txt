@@ -1,0 +1,5 @@
+# Starter vocabulary - Rangpur dialect. Single words only.
+# Extend and validate with native speakers; accuracy depends on this list.
+মুই, মোর, মোক, মোরা, হামার, হামরা, হামাক
+তোক, তোরে, ক্যানে, কইরছি, গেইছে, যাম, খাম
+কিবা, কুনো, অ্যালা, আইজ, ইলা, ওলা

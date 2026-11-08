@@ -1,0 +1,3 @@
+# Words common to the whole North Bengal region (cannot prove a single district).
+# One word per line or comma-separated. Single words only. Lines starting with # are ignored.
+বাহে, কই, নাই, ইটা, উটা, কোটে, কনে, ক্যামন, কেনে
